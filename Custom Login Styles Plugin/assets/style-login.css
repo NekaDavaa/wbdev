@@ -1,0 +1,48 @@
+body.login {
+    background-color: #262626;
+    }
+    body.login div#login {}
+    body.login div#login h1 {}
+    body.login div#login h1 a {}
+    body.login div#login form#loginform {
+        background-color: #262626;
+    }
+    body.login div#login form#loginform p {}
+    body.login div#login form#loginform p label {
+        color:#fff;
+        font-size:20px;
+    }
+    body.login div#login form#loginform div.user-pass-wrap label {
+        color:#fff;
+        font-size:20px;
+    }
+    .login .button.wp-hide-pw {
+       color:#430467;
+    }
+    .login .button.wp-hide-pw:focus {
+        border-color: #430467;
+    }
+    body.login div#login form#loginform input:focus {
+        border-color:#430467;
+    }
+    body.login div#login form#loginform input#user_login {}
+    body.login div#login form#loginform input#user_pass {}
+    body.login div#login form#loginform p.forgetmenot {}
+    body.login div#login form#loginform p.forgetmenot input#rememberme:focus {
+        outline:#430467;
+    }
+    body.login div#login form#loginform p.submit {}
+    body.login div#login form#loginform p.submit input#wp-submit {
+        background: #430467;
+        border-color: #430467;
+        scale:1.3;
+    }
+    body.login div#login form#loginform p.submit input#wp-submit:hover {
+        background: #000;
+        border-color: #000;
+        scale:1.3;
+    }
+    body.login div#login p#nav {}
+    body.login div#login p#nav a {}
+    body.login div#login p#backtoblog {}
+    body.login div#login p#backtoblog a {}
